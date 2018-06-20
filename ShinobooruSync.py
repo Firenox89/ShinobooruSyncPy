@@ -1,3 +1,5 @@
+#! /usr/bin/env python3
+
 import httplib2
 import os
 import ntpath
